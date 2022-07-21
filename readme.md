@@ -1,12 +1,4 @@
-1.npm install ethers hardhat @nomiclabs/hardhat-waffle \
-	ethereum-waffle chai @nomiclabs/hardhat-ethers \
-	@openzeppelin/contracts dotenv
-2.npx hardhat
-3.npx create-next-app -e with-tailwindcss client
-4.cd client
-	npm install axios ethers react-loader-spinner
-6.npx hardhat run scripts/deploy.js --network goerli
-
+## How to deploy NFT Smart Contract
 # 1)
 ```sh
 git clone https://github.com/Smith0521/NFT-project.git
@@ -32,7 +24,7 @@ npm install axios ethers react-loader-spinner
 npx hardhat run scripts/deploy.js --network goerli
 ```
 
-I hope the project will run successfully.
+## I hope the project will run successfully.
 
 
 
