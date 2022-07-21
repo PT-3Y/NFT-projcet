@@ -1,4 +1,4 @@
-## How to deploy NFT Smart Contract
+## How to deploy an NFT Smart Contract
 # 1)
 ```sh
 git clone https://github.com/Smith0521/NFT-project.git
