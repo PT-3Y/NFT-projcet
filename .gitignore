@@ -1,0 +1,15 @@
+/node_modules/
+/artifacts/
+/cache/
+/.env
+
+
+/client/node_modules/
+/client/.next/
+/client/build/
+/client/out/
+/client/coverage
+/client/.pnp
+/client/.pnp.js
+/client/utils
+
